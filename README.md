@@ -42,6 +42,23 @@ The GAN model uses adversarial training: the generator tries to fool the discrim
 - OpenCV (optional for image processing)
 - Other dependencies can be installed via `requirements.txt`.
 
+- ## Results
+After training, you will find the following outputs:
+
+Generated Images: Stored in the output/ directory.
+Model Checkpoints: Saved during training in the models/ directory.
+Logs: Training logs stored in logs/ for monitoring loss metrics.
+
+## Contributing
+Contributions are welcome! To contribute, please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-name).
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature-name).
+Create a new Pull Request.
+
+
 ## Installation
 
 Clone the repository:
@@ -49,3 +66,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/generative-adversarial-model.git
 cd generative-adversarial-model
+
