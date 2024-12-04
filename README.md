@@ -42,7 +42,7 @@ The GAN model uses adversarial training: the generator tries to fool the discrim
 - OpenCV (optional for image processing)
 - Other dependencies can be installed via `requirements.txt`.
 
-- ## Results
+## Results
 After training, you will find the following outputs:
 
 Generated Images: Stored in the output/ directory.
