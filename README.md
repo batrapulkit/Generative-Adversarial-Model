@@ -49,14 +49,20 @@ Generated Images: Stored in the output/ directory.
 Model Checkpoints: Saved during training in the models/ directory.
 Logs: Training logs stored in logs/ for monitoring loss metrics.
 
-## Contributing
-Contributions are welcome! To contribute, please follow these steps:
+## Contributions
 
-Fork the repository.
-Create a new branch (git checkout -b feature-name).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-name).
-Create a new Pull Request.
+Contributions are highly encouraged! If you'd like to contribute to the **EcoEye-Online-Bird-Monitoring-System**, please follow these steps:
+
+- Fork the repository.
+- Create a new branch:  
+  `git checkout -b feature-branch`
+- Make your changes and commit them:  
+  `git commit -m 'Add feature'`
+- Push your changes to your fork:  
+  `git push origin feature-branch`
+- Submit a pull request.
+
+We appreciate your contributions and will review your pull request as soon as possible!
 
 
 ## Installation
